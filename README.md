@@ -1,5 +1,9 @@
 # ASE
-Fall 2019_Automated Software Engineering Course
+CSC791-Fall 2019_Automated Software Engineering Course
+
+Name:Viviniya Alexis Lawrence
+unity id: palexis
+
 HW 1
 Write a class called Col with subclass Num, Sym, and Some
 
