@@ -1,0 +1,10 @@
+Group 0 mean is 7.197531693E8 standard deviation is 5.22187478E8
+Group 1 mean is 8.592859312499999E8 standard deviation is 5.64005238E8
+Group 2 mean is 9.437052570666666E8 standard deviation is 6.07212295E8
+Group 3 mean is 1.0356377681499997E9 standard deviation is 5.97913976E8
+Group 4 mean is 1.0648841092799999E9 standard deviation is 5.8376653E8
+Group 5 mean is 1.0072242718666664E9 standard deviation is 5.95005407E8
+Group 6 mean is 9.793087163285714E8 standard deviation is 5.90378495E8
+Group 7 mean is 9.495215475625E8 standard deviation is 5.78049E8
+Group 8 mean is 9.672988837111112E8 standard deviation is 5.95311952E8
+Group 9 mean is 9.650826562900002E8 standard deviation is 5.99520352E8
